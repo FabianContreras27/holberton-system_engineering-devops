@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lR | rep "^d" | wc -1 
+ls -lR | rep "^d" | wc -l 
