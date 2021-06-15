@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lR | rep "^d" | wc -1
+find . -type f -name "*.js" -delete
