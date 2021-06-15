@@ -1,6 +1,28 @@
-total 16
--rwxrw-r-- 1 starky starky  32 jun 14 11:40 0-hello_world
--rwxrw-r-- 1 starky starky  28 jun 14 15:11 1-confused_smiley
--rw-rw-r-- 1 starky starky 801 jun 14 15:36 iacta
--rw-rw-r-- 1 starky starky   0 jun 14 16:12 ls_cwd_content
--rwxrw-r-- 1 starky starky  36 jun 14 12:11 README.md
+total 104
+drwxrwxr-x 2 starky starky 4096 jun 15 13:30 .
+drwxrwxr-x 6 starky starky 4096 jun 15 13:28 ..
+-rwxrw-r-- 1 starky starky   32 jun 14 11:40 0-hello_world
+-rwxrw-r-- 1 starky starky   48 jun 14 22:43 10-no_more_js
+-rwxrw-r-- 1 starky starky   52 jun 14 22:49 11-directories
+-rwxrw-r-- 1 starky starky   38 jun 14 22:52 13-unique
+-rwxrw-r-- 1 starky starky   46 jun 14 23:04 14-findthatword
+-rwxrw-r-- 1 starky starky   52 jun 14 23:17 15-counterthatword
+-rwxrw-r-- 1 starky starky   49 jun 14 23:48 16-whatsnext
+-rw-rw-r-- 1 starky starky   12 jun 14 23:50 17-hidethisword
+-rw-rw-r-- 1 starky starky   54 jun 14 23:54 18-letteronly
+-rw-rw-r-- 1 starky starky   12 jun 14 23:58 19-AZ
+-rwxrw-r-- 1 starky starky   28 jun 14 15:11 1-confused_smiley
+-rw-rw-r-- 1 starky starky   32 jun 15 00:00 20-hiago
+-rw-rw-r-- 1 starky starky   20 jun 14 23:59 20-hiago~
+-rwxrw-r-- 1 starky starky   28 jun 14 21:17 2-hellofile
+-rwxrw-r-- 1 starky starky   39 jun 14 21:19 3-twofiles
+-rwxrw-r-- 1 starky starky   34 jun 14 21:33 4-lastlines
+-rwxrw-r-- 1 starky starky   29 jun 14 21:40 5-firstlines
+-rwxrw-r-- 1 starky starky   36 jun 14 21:53 6-third_line
+-rwxrw-r-- 1 starky starky   99 jun 15 13:18 7-file
+-rwxrw-r-- 1 starky starky   36 jun 15 13:30 8-cwd_state
+-rwxrw-r-- 1 starky starky   35 jun 14 22:36 9-duplicate_last_line
+-rw-rw-r-- 1 starky starky  801 jun 14 15:36 iacta
+-rw-rw-r-- 1 starky starky    4 jun 14 16:53 list
+-rw-rw-r-- 1 starky starky    0 jun 15 13:31 ls_cwd_content
+-rwxrw-r-- 1 starky starky   36 jun 14 12:11 README.md
